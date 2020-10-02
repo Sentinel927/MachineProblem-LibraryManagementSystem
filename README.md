@@ -1,1 +1,1 @@
-# Machine-Problem---Library-Management-System
+# MachineProblem-LibraryManagementSystem
